@@ -418,7 +418,9 @@ Assistant:"""
 
 # Streamlit UI
 st.title("Bible Verses Explorer")
-st.write("Ask for scriptures on any topic or theme!")
+
+st.write("Ask for scriptures on any topic or Question you might Have")
+st.title("Remember Jeremiah 1:12 says  for I (God) am watching to see that my word is fulfilled.")
 
 # Initialize session state variables
 if "chat_history" not in st.session_state:
