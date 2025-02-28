@@ -2,4 +2,4 @@ streamlit
 langchain_pinecone 
 langchain_community
 sentence-transformers
-qroq
+groq
